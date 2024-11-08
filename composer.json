@@ -1,0 +1,20 @@
+{
+    "name": "humbe/leituracsv",
+    "autoload": {
+        "psr-4": {
+            "Humbe\\Leituracsv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Breno Rosa Barbosa",
+            "email": "106892141+breenoox@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "coffeecode/datalayer": "1.1.*",
+        "coffeecode/router": "1.0.*",
+        "league/plates": "v3.0",
+        "twbs/bootstrap": "^5.3"
+    }
+}
